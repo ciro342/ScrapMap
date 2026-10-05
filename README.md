@@ -1,4 +1,4 @@
-# scrapmap
+# ScrapMap
 
 Scraper de negocios en Google Maps que genera, con IA (Groq), un mensaje de primer contacto distinto para cada negocio y lo deja listo en un link de `wa.me`.
 
