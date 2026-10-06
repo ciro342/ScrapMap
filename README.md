@@ -2,7 +2,7 @@
 
 Scraper de negocios en Google Maps que genera, con IA (Groq), un mensaje de primer contacto distinto para cada negocio y lo deja listo en un link de `wa.me`.
 
-El script **no envía nada**: tú abres cada link y das enviar a mano.
+El script **no envía nada**: tú abres cada link y das enviar a mano para evitar baneos de META.
 
 ## Qué hace
 
